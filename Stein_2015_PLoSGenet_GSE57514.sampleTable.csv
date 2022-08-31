@@ -1,0 +1,15 @@
+sample_id,genotype,library_size,bam_path
+s_Ago2_CI_r1.SE,Ago2_CI,51360525,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_CI_r1.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_CI_r2.SE,Ago2_CI,51680935,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_CI_r2.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_CI_r3.SE,Ago2_CI,41788256,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_CI_r3.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_KO_r1.SE,Ago2_KO,52748066,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_KO_r1.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_KO_r2.SE,Ago2_KO,51086352,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_KO_r2.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_WT_r1.SE,Ago2_WT,45904346,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_WT_r1.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_WT_r2.SE,Ago2_WT,52403928,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_WT_r2.SE.genome.Aligned.sortedByCoord.out.bam
+s_Ago2_WT_r3.SE,Ago2_WT,52555149,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Ago2_WT_r3.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_KO_r1.SE,Dicer_KO,31119959,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_KO_r1.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_KO_r2.SE,Dicer_KO,27595937,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_KO_r2.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_KO_r3.SE,Dicer_KO,35446276,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_KO_r3.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_WT_r1.SE,Dicer_WT,35759227,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_WT_r1.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_WT_r2.SE,Dicer_WT,35774238,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_WT_r2.SE.genome.Aligned.sortedByCoord.out.bam
+s_Dicer_WT_r3.SE,Dicer_WT,37360656,/common/WORK/fhorvat/Projekti/Svoboda/accessory_data_sets/RNAseq/Stein_2015_PLoSGenet_GSE57514/Data/Mapped/STAR_mm10_new/s_Dicer_WT_r3.SE.genome.Aligned.sortedByCoord.out.bam
